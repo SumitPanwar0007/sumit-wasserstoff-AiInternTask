@@ -1,1 +1,19 @@
 INFO:root:MongoDB connection successful!
+INFO:root:Successfully stored metadata for attention.pdf in MongoDB with ID: 6716b8b57dd1a825bf0982b1
+INFO:root:Successfully stored metadata for NLP.pdf in MongoDB with ID: 6716b8b57dd1a825bf0982b4
+INFO:root:Successfully stored metadata for NLP_removed.pdf in MongoDB with ID: 6716b8b57dd1a825bf0982b5
+INFO:root:Successfully stored metadata for ML.pdf in MongoDB with ID: 6716b8b57dd1a825bf0982b3
+INFO:root:Successfully stored metadata for attention_removed.pdf in MongoDB with ID: 6716b8b57dd1a825bf0982b2
+INFO:root:Successfully updated MongoDB document with ID: 6716b8b57dd1a825bf0982b5
+INFO:root:Processed NLP_removed.pdf in 0.84 seconds
+INFO:root:Successfully updated MongoDB document with ID: 6716b8b57dd1a825bf0982b2
+INFO:root:Processed attention_removed.pdf in 1.50 seconds
+INFO:root:Successfully updated MongoDB document with ID: 6716b8b57dd1a825bf0982b4
+INFO:root:Processed NLP.pdf in 1.53 seconds
+INFO:root:Successfully updated MongoDB document with ID: 6716b8b57dd1a825bf0982b3
+INFO:root:Processed ML.pdf in 1.68 seconds
+INFO:root:Successfully updated MongoDB document with ID: 6716b8b57dd1a825bf0982b1
+INFO:root:Processed attention.pdf in 2.60 seconds
+INFO:root:Total processing time for all PDFs: 2.60 seconds
+INFO:root:Average time per document: 1.63 seconds
+INFO:root:Processed 5 documents in parallel
