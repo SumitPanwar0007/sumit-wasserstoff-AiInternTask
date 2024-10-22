@@ -1,73 +1,76 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-922-811
 INFO:root:MongoDB connection successful!
-INFO:root:Successfully stored metadata for attention.pdf in MongoDB with ID: 6716b8b57dd1a825bf0982b1
-INFO:root:Successfully stored metadata for NLP.pdf in MongoDB with ID: 6716b8b57dd1a825bf0982b4
-INFO:root:Successfully stored metadata for NLP_removed.pdf in MongoDB with ID: 6716b8b57dd1a825bf0982b5
-INFO:root:Successfully stored metadata for ML.pdf in MongoDB with ID: 6716b8b57dd1a825bf0982b3
-INFO:root:Successfully stored metadata for attention_removed.pdf in MongoDB with ID: 6716b8b57dd1a825bf0982b2
-INFO:root:Successfully updated MongoDB document with ID: 6716b8b57dd1a825bf0982b5
-INFO:root:Processed NLP_removed.pdf in 0.84 seconds
-INFO:root:Successfully updated MongoDB document with ID: 6716b8b57dd1a825bf0982b2
-INFO:root:Processed attention_removed.pdf in 1.50 seconds
-INFO:root:Successfully updated MongoDB document with ID: 6716b8b57dd1a825bf0982b4
-INFO:root:Processed NLP.pdf in 1.53 seconds
-INFO:root:Successfully updated MongoDB document with ID: 6716b8b57dd1a825bf0982b3
-INFO:root:Processed ML.pdf in 1.68 seconds
-INFO:root:Successfully updated MongoDB document with ID: 6716b8b57dd1a825bf0982b1
-INFO:root:Processed attention.pdf in 2.60 seconds
-INFO:root:Total processing time for all PDFs: 2.60 seconds
-INFO:root:Average time per document: 1.63 seconds
-INFO:root:Processed 5 documents in parallel
+INFO:root:Successfully stored metadata for attention.pdf in MongoDB with ID: 67178d266fc1b20a805dc837
+INFO:root:Successfully updated MongoDB document with ID: 67178d266fc1b20a805dc837
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2024 17:01:51] "POST /process_pdfs HTTP/1.1" 200 -
 INFO:root:MongoDB connection successful!
-ERROR:root:Error storing metadata for example.pdf: [WinError 3] The system cannot find the path specified: 'path_to_your_pdf_folder\\example.pdf'
-INFO:root:Successfully updated MongoDB document with ID: None
-ERROR:root:Error reading D:\AI_ML\RAG\pdf: [Errno 13] Permission denied: 'D:\\AI_ML\\RAG\\pdf'
+INFO:root:Successfully stored metadata for attention.pdf in MongoDB with ID: 67178d566fc1b20a805dc839
+INFO:root:Successfully updated MongoDB document with ID: 67178d566fc1b20a805dc839
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2024 17:02:38] "POST /process_pdfs HTTP/1.1" 200 -
 INFO:root:MongoDB connection successful!
-ERROR:root:Error storing metadata for example.pdf: [WinError 3] The system cannot find the path specified: 'path_to_your_pdf_folder\\example.pdf'
-INFO:root:Successfully updated MongoDB document with ID: None
-ERROR:root:Error reading D:\AI_ML\RAG\pdf: [Errno 13] Permission denied: 'D:\\AI_ML\\RAG\\pdf'
+INFO:root:Successfully stored metadata for attention.pdf in MongoDB with ID: 67178d836fc1b20a805dc83b
+INFO:root:Successfully updated MongoDB document with ID: 67178d836fc1b20a805dc83b
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2024 17:03:23] "POST /process_pdfs HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\AI_ML\\RAG\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-922-811
+INFO:werkzeug: * Detected change in 'D:\\AI_ML\\RAG\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-922-811
+INFO:werkzeug: * Detected change in 'D:\\AI_ML\\RAG\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-922-811
+INFO:werkzeug: * Detected change in 'D:\\AI_ML\\RAG\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-922-811
+INFO:werkzeug: * Detected change in 'D:\\AI_ML\\RAG\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-922-811
+INFO:werkzeug: * Detected change in 'D:\\AI_ML\\RAG\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-922-811
+INFO:werkzeug: * Detected change in 'D:\\AI_ML\\RAG\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-922-811
+INFO:werkzeug: * Detected change in 'D:\\AI_ML\\RAG\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-922-811
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-922-811
 INFO:root:MongoDB connection successful!
-ERROR:root:Error storing metadata for example.pdf: [WinError 3] The system cannot find the path specified: 'path_to_your_pdf_folder\\example.pdf'
-INFO:root:Successfully updated MongoDB document with ID: None
-ERROR:root:Error reading D:\AI_ML\RAG\pdf: [Errno 13] Permission denied: 'D:\\AI_ML\\RAG\\pdf'
+INFO:root:Successfully stored metadata for attention.pdf in MongoDB with ID: 671792b6abc002b9027fe461
+INFO:root:Successfully updated MongoDB document with ID: 671792b6abc002b9027fe461
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2024 17:25:34] "POST /process_pdfs HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\AI_ML\\RAG\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-922-811
+INFO:werkzeug: * Detected change in 'D:\\AI_ML\\RAG\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-922-811
+INFO:werkzeug: * Detected change in 'D:\\AI_ML\\RAG\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-922-811
 INFO:root:MongoDB connection successful!
-ERROR:root:Error storing metadata for example.pdf: [WinError 3] The system cannot find the path specified: 'path_to_your_pdf_folder\\example.pdf'
-INFO:root:Successfully updated MongoDB document with ID: None
-ERROR:root:Error reading D:\AI_ML\RAG\pdf: [Errno 13] Permission denied: 'D:\\AI_ML\\RAG\\pdf'
-INFO:root:MongoDB connection successful!
-ERROR:root:Error storing metadata for example.pdf: [WinError 3] The system cannot find the path specified: 'path_to_your_pdf_folder\\example.pdf'
-INFO:root:Successfully updated MongoDB document with ID: None
-ERROR:root:Error reading D:\AI_ML\RAG\pdf: [Errno 13] Permission denied: 'D:\\AI_ML\\RAG\\pdf'
-INFO:root:MongoDB connection successful!
-ERROR:root:Error storing metadata for example.pdf: [WinError 3] The system cannot find the path specified: 'path_to_your_pdf_folder\\example.pdf'
-INFO:root:Successfully updated MongoDB document with ID: None
-ERROR:root:Error reading D:\AI_ML\RAG\pdf: [Errno 13] Permission denied: 'D:\\AI_ML\\RAG\\pdf'
-INFO:root:MongoDB connection successful!
-INFO:root:Successfully stored metadata for attention_removed.pdf in MongoDB with ID: 67173eeea87da82588c8cbad
-INFO:root:Successfully updated MongoDB document with ID: 67173eeea87da82588c8cbad
-INFO:root:MongoDB connection successful!
-INFO:root:Successfully stored metadata for ML.pdf in MongoDB with ID: 67173eefa87da82588c8cbaf
-INFO:root:Successfully updated MongoDB document with ID: 67173eefa87da82588c8cbaf
-INFO:root:MongoDB connection successful!
-INFO:root:Successfully stored metadata for NLP.pdf in MongoDB with ID: 67173eefa87da82588c8cbb1
-INFO:root:Successfully updated MongoDB document with ID: 67173eefa87da82588c8cbb1
-INFO:root:MongoDB connection successful!
-INFO:root:Successfully stored metadata for NLP_removed.pdf in MongoDB with ID: 67173ef0a87da82588c8cbb3
-INFO:root:Successfully updated MongoDB document with ID: 67173ef0a87da82588c8cbb3
-INFO:root:MongoDB connection successful!
-INFO:root:Successfully stored metadata for attention.pdf in MongoDB with ID: 67173ef0a87da82588c8cbb5
-INFO:root:Successfully updated MongoDB document with ID: 67173ef0a87da82588c8cbb5
-INFO:root:MongoDB connection successful!
-INFO:root:Successfully stored metadata for attention_removed.pdf in MongoDB with ID: 67173f14ede7fe8c8b1210cb
-INFO:root:Successfully updated MongoDB document with ID: 67173f14ede7fe8c8b1210cb
-INFO:root:MongoDB connection successful!
-INFO:root:Successfully stored metadata for ML.pdf in MongoDB with ID: 67173f14ede7fe8c8b1210cd
-INFO:root:Successfully updated MongoDB document with ID: 67173f14ede7fe8c8b1210cd
-INFO:root:MongoDB connection successful!
-INFO:root:Successfully stored metadata for NLP.pdf in MongoDB with ID: 67173f15ede7fe8c8b1210cf
-INFO:root:Successfully updated MongoDB document with ID: 67173f15ede7fe8c8b1210cf
-INFO:root:MongoDB connection successful!
-INFO:root:Successfully stored metadata for NLP_removed.pdf in MongoDB with ID: 67173f16ede7fe8c8b1210d1
-INFO:root:Successfully updated MongoDB document with ID: 67173f16ede7fe8c8b1210d1
-INFO:root:MongoDB connection successful!
-INFO:root:Successfully stored metadata for attention.pdf in MongoDB with ID: 67173f16ede7fe8c8b1210d3
-INFO:root:Successfully updated MongoDB document with ID: 67173f16ede7fe8c8b1210d3
+INFO:root:Successfully stored metadata for attention.pdf in MongoDB with ID: 671793642a9bdf49a9d782d1
+INFO:root:Successfully updated MongoDB document with ID: 671793642a9bdf49a9d782d1
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2024 17:28:28] "POST /process_pdfs HTTP/1.1" 200 -
