@@ -74,3 +74,33 @@ INFO:root:MongoDB connection successful!
 INFO:root:Successfully stored metadata for attention.pdf in MongoDB with ID: 671793642a9bdf49a9d782d1
 INFO:root:Successfully updated MongoDB document with ID: 671793642a9bdf49a9d782d1
 INFO:werkzeug:127.0.0.1 - - [22/Oct/2024 17:28:28] "POST /process_pdfs HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-922-811
+INFO:root:MongoDB connection successful!
+INFO:root:Successfully stored metadata for attention.pdf in MongoDB with ID: 67179569d8c19d7aea7faddd
+INFO:root:Successfully updated MongoDB document with ID: 67179569d8c19d7aea7faddd
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2024 17:37:05] "POST /process_pdfs HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\AI_ML\\RAG\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-922-811
+INFO:root:MongoDB connection successful!
+INFO:root:Successfully stored metadata for attention_removed.pdf in MongoDB with ID: 671797162d309effbd8e39ac
+INFO:root:Successfully updated MongoDB document with ID: 671797162d309effbd8e39ac
+INFO:root:Successfully stored metadata for ML.pdf in MongoDB with ID: 671797162d309effbd8e39ad
+INFO:root:Successfully updated MongoDB document with ID: 671797162d309effbd8e39ad
+INFO:root:Successfully stored metadata for NLP.pdf in MongoDB with ID: 671797162d309effbd8e39ae
+INFO:root:Successfully updated MongoDB document with ID: 671797162d309effbd8e39ae
+INFO:root:Successfully stored metadata for NLP_removed.pdf in MongoDB with ID: 671797162d309effbd8e39af
+INFO:root:Successfully updated MongoDB document with ID: 671797162d309effbd8e39af
+INFO:root:Successfully stored metadata for attention.pdf in MongoDB with ID: 671797162d309effbd8e39b0
+INFO:root:Successfully updated MongoDB document with ID: 671797162d309effbd8e39b0
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2024 17:44:14] "POST /process_pdfs HTTP/1.1" 200 -

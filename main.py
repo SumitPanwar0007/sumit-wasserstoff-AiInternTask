@@ -17,6 +17,11 @@ def main():
     # Process all PDFs in the folder for summarization and keyword extraction
     all_pdf_results = process_multiple_pdfs_for_summary_and_keywords(folder_path)
 
+    # Print the results for debugging
+    print("All PDF Results:")
+    print(all_pdf_results)  # This will show you the structure and contents of all_pdf_resultscls
+    
+
     # Print results for each PDF
     print(f"Processing results for {len(all_pdf_results)} PDFs.")  # Debug statement
     for pdf_name, result in all_pdf_results.items():
