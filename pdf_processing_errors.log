@@ -17,3 +17,57 @@ INFO:root:Processed attention.pdf in 2.60 seconds
 INFO:root:Total processing time for all PDFs: 2.60 seconds
 INFO:root:Average time per document: 1.63 seconds
 INFO:root:Processed 5 documents in parallel
+INFO:root:MongoDB connection successful!
+ERROR:root:Error storing metadata for example.pdf: [WinError 3] The system cannot find the path specified: 'path_to_your_pdf_folder\\example.pdf'
+INFO:root:Successfully updated MongoDB document with ID: None
+ERROR:root:Error reading D:\AI_ML\RAG\pdf: [Errno 13] Permission denied: 'D:\\AI_ML\\RAG\\pdf'
+INFO:root:MongoDB connection successful!
+ERROR:root:Error storing metadata for example.pdf: [WinError 3] The system cannot find the path specified: 'path_to_your_pdf_folder\\example.pdf'
+INFO:root:Successfully updated MongoDB document with ID: None
+ERROR:root:Error reading D:\AI_ML\RAG\pdf: [Errno 13] Permission denied: 'D:\\AI_ML\\RAG\\pdf'
+INFO:root:MongoDB connection successful!
+ERROR:root:Error storing metadata for example.pdf: [WinError 3] The system cannot find the path specified: 'path_to_your_pdf_folder\\example.pdf'
+INFO:root:Successfully updated MongoDB document with ID: None
+ERROR:root:Error reading D:\AI_ML\RAG\pdf: [Errno 13] Permission denied: 'D:\\AI_ML\\RAG\\pdf'
+INFO:root:MongoDB connection successful!
+ERROR:root:Error storing metadata for example.pdf: [WinError 3] The system cannot find the path specified: 'path_to_your_pdf_folder\\example.pdf'
+INFO:root:Successfully updated MongoDB document with ID: None
+ERROR:root:Error reading D:\AI_ML\RAG\pdf: [Errno 13] Permission denied: 'D:\\AI_ML\\RAG\\pdf'
+INFO:root:MongoDB connection successful!
+ERROR:root:Error storing metadata for example.pdf: [WinError 3] The system cannot find the path specified: 'path_to_your_pdf_folder\\example.pdf'
+INFO:root:Successfully updated MongoDB document with ID: None
+ERROR:root:Error reading D:\AI_ML\RAG\pdf: [Errno 13] Permission denied: 'D:\\AI_ML\\RAG\\pdf'
+INFO:root:MongoDB connection successful!
+ERROR:root:Error storing metadata for example.pdf: [WinError 3] The system cannot find the path specified: 'path_to_your_pdf_folder\\example.pdf'
+INFO:root:Successfully updated MongoDB document with ID: None
+ERROR:root:Error reading D:\AI_ML\RAG\pdf: [Errno 13] Permission denied: 'D:\\AI_ML\\RAG\\pdf'
+INFO:root:MongoDB connection successful!
+INFO:root:Successfully stored metadata for attention_removed.pdf in MongoDB with ID: 67173eeea87da82588c8cbad
+INFO:root:Successfully updated MongoDB document with ID: 67173eeea87da82588c8cbad
+INFO:root:MongoDB connection successful!
+INFO:root:Successfully stored metadata for ML.pdf in MongoDB with ID: 67173eefa87da82588c8cbaf
+INFO:root:Successfully updated MongoDB document with ID: 67173eefa87da82588c8cbaf
+INFO:root:MongoDB connection successful!
+INFO:root:Successfully stored metadata for NLP.pdf in MongoDB with ID: 67173eefa87da82588c8cbb1
+INFO:root:Successfully updated MongoDB document with ID: 67173eefa87da82588c8cbb1
+INFO:root:MongoDB connection successful!
+INFO:root:Successfully stored metadata for NLP_removed.pdf in MongoDB with ID: 67173ef0a87da82588c8cbb3
+INFO:root:Successfully updated MongoDB document with ID: 67173ef0a87da82588c8cbb3
+INFO:root:MongoDB connection successful!
+INFO:root:Successfully stored metadata for attention.pdf in MongoDB with ID: 67173ef0a87da82588c8cbb5
+INFO:root:Successfully updated MongoDB document with ID: 67173ef0a87da82588c8cbb5
+INFO:root:MongoDB connection successful!
+INFO:root:Successfully stored metadata for attention_removed.pdf in MongoDB with ID: 67173f14ede7fe8c8b1210cb
+INFO:root:Successfully updated MongoDB document with ID: 67173f14ede7fe8c8b1210cb
+INFO:root:MongoDB connection successful!
+INFO:root:Successfully stored metadata for ML.pdf in MongoDB with ID: 67173f14ede7fe8c8b1210cd
+INFO:root:Successfully updated MongoDB document with ID: 67173f14ede7fe8c8b1210cd
+INFO:root:MongoDB connection successful!
+INFO:root:Successfully stored metadata for NLP.pdf in MongoDB with ID: 67173f15ede7fe8c8b1210cf
+INFO:root:Successfully updated MongoDB document with ID: 67173f15ede7fe8c8b1210cf
+INFO:root:MongoDB connection successful!
+INFO:root:Successfully stored metadata for NLP_removed.pdf in MongoDB with ID: 67173f16ede7fe8c8b1210d1
+INFO:root:Successfully updated MongoDB document with ID: 67173f16ede7fe8c8b1210d1
+INFO:root:MongoDB connection successful!
+INFO:root:Successfully stored metadata for attention.pdf in MongoDB with ID: 67173f16ede7fe8c8b1210d3
+INFO:root:Successfully updated MongoDB document with ID: 67173f16ede7fe8c8b1210d3

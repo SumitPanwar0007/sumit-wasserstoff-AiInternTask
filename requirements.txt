@@ -1,0 +1,7 @@
+PyPDF2
+nltk
+scikit-learn
+pandas
+numpy
+python-dotenv
+pymongo
